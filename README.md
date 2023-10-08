@@ -42,10 +42,10 @@ I hope to develop every beautiful things. ✨
 
 <!-- 첫 번째 div -->
 <div style="display:flex; flex-direction:row;">
-  <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
 </div>
 <br>

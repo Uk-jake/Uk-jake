@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 👋 Hi! I'm Jake, and I'm diligently working towards becoming a backend developer. 
 When I develop, I aim for more than just writing code. I strive to think from the perspective of the service users, aiming to provide them with the best experience possible. 
 

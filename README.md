@@ -12,7 +12,14 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
   </a>
 </div>
-👋  Hi there! 
+👋 Hi! I'm Jake, and I'm diligently working towards becoming a backend developer. 
+When I develop, I aim for more than just writing code. I strive to think from the perspective of the service users, aiming to provide them with the best experience possible.
+
+🚀 For me, development is not just about solving technical problems; it's about solving people's problems. 
+That's why, in addition to honing my technical skills, I'm also focused on adopting a user-centric mindset.
+
+🚣 I'm on a journey towards my dreams, constantly learning and growing along the way.
+Thank you for visiting my page!
 
 <be><br>
 ##  💪 Skills

@@ -23,7 +23,7 @@ When I develop, I aim for more than just writing code. I strive to think from th
 That's why, in addition to honing my technical skills, I'm also focused on adopting a user-centric mindset.
 
 
-<br>
+<br><br>
 🚣 I'm on a journey towards my dreams, constantly learning and growing along the way.
 Thank you for visiting my page!
 

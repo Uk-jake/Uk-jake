@@ -12,15 +12,9 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
   </a>
 </div>
-👋  Hi there! I'm full stack developer skilled in API, WEB, and APP.🚀
-I have experience 7 years of Android development and 2 years of iOS development.
-At present, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.
-Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)
+👋  Hi there! 
 
-I enjoy hiking, swimming, dive and surf. ⛰ 🏄
-I hope to develop every beautiful things. ✨
-
-
+<be><br>
 ##  💪 Skills
 ### Platforms & Languages
 <!-- 첫 번째 div -->

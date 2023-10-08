@@ -15,11 +15,13 @@
 
 <br>
 👋 Hi! I'm Jake, and I'm diligently working towards becoming a backend developer.
-
+<p></p>
 When I develop, I aim for more than just writing code. I strive to think from the perspective of the service users, aiming to provide them with the best experience possible. 
 <p></p>
+<p></p>
 🚀 For me, development is not just about solving technical problems; it's about solving people's problems. 
-
+<p></p>
+<p></p>
 That's why, in addition to honing my technical skills, I'm also focused on adopting a user-centric mindset.
 <p></p>
 🚣 I'm on a journey towards my dreams, constantly learning and growing along the way.

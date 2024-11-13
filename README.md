@@ -58,10 +58,9 @@ Thank you for visiting my page!
 
 ### My Git Pet
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/Uk-jake"
-    width="800"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/Uk-jake"
+  width="600"
+  height="300"
+/>
 </a>
-  

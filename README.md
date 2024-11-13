@@ -1,11 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jake's%20GitHub%20😁&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/Uk-jake"
-  width="600"
-  height="300"
-/>
-</a>
 # Who is Jake?
 <div style="display:flex; flex-direction:row;">
   <a href="https://www.linkedin.com/in/uk-jang-7692a223a/" style="margin-right: 20px;">
@@ -62,3 +55,13 @@ Thank you for visiting my page!
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
 </div>
 <br>
+
+### My Git Pet
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Uk-jake"
+    width="800"
+    height="120"
+  />
+</a>
+  

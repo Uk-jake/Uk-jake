@@ -55,7 +55,6 @@ Thank you for visiting my page!
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
 </div>
 <br>
-<br>
 
 ### My Git Pet
 <a href="https://github.com/devxb/gitanimals">

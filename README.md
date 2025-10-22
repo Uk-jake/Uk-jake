@@ -11,17 +11,13 @@
 
 ## 🧰 Tech Stack
 
-- **Cloud & Infrastructure**  
-AWS · Terraform · Kubernetes · Docker  
+- **Cloud & Infrastructure** : AWS · Terraform · Kubernetes · Docker  
 
-- **Automation & CI/CD**  
-GitHub Actions · GitLab CI · ArgoCD  
+- **Automation & CI/CD** : GitHub Actions · GitLab CI · ArgoCD  
 
-- **Observability**  
-Grafana · Prometheus  
+- **Observability** : Grafana · Prometheus  
 
-- **Programming & Scripting**  
-Java · Bash
+- **Programming & Scripting** : Java · Bash
 
 ## 💼 Experience
 

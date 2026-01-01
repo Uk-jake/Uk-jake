@@ -36,13 +36,10 @@
 
 ## 🪪 Certifications
 
+- Linux Foundation Certified System Administrator (LFCS)
 - AWS Certified Solutions Architect – Associate (SAA-C03)
-
 - Engineer Information Processing (정보처리기사)
-
-
 - SQL Developer (SQLD)
-
 - Linux Master Level 2 (리눅스 마스터 2급)
 
 ### 🌐 Connect with Me
